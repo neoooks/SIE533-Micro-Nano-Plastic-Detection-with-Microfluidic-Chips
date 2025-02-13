@@ -1,1 +1,1 @@
-# SIE533-Micro-Nano-Plastic-Detection-with-Microfluidic-Chips
+# SIE533 Micro Nano Plastic Detection with Microfluidic Chips
